@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-eslint",
+  "version": "1.0.0",
+  "description": "NodeJS ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yulianto",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.54.0"
+  }
+}
